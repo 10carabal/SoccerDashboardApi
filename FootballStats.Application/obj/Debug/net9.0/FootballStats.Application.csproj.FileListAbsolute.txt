@@ -1,0 +1,17 @@
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\bin\Debug\net9.0\FootballStats.Application.deps.json
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\bin\Debug\net9.0\FootballStats.Application.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\bin\Debug\net9.0\FootballStats.Application.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\bin\Debug\net9.0\FootballStats.Domain.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\bin\Debug\net9.0\FootballStats.Infrastructure.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\bin\Debug\net9.0\FootballStats.Domain.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\bin\Debug\net9.0\FootballStats.Infrastructure.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\FootballStats.Application.csproj.AssemblyReference.cache
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\FootballStats.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\FootballStats.Application.AssemblyInfoInputs.cache
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\FootballStats.Application.AssemblyInfo.cs
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\FootballStats.Application.csproj.CoreCompileInputs.cache
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\Football.8BB13A15.Up2Date
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\FootballStats.Application.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\refint\FootballStats.Application.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\FootballStats.Application.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Application\obj\Debug\net9.0\ref\FootballStats.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\bin\Debug\net9.0\FootballStats.Domain.deps.json
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\bin\Debug\net9.0\FootballStats.Domain.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\bin\Debug\net9.0\FootballStats.Domain.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\obj\Debug\net9.0\FootballStats.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\obj\Debug\net9.0\FootballStats.Domain.AssemblyInfoInputs.cache
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\obj\Debug\net9.0\FootballStats.Domain.AssemblyInfo.cs
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\obj\Debug\net9.0\FootballStats.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\obj\Debug\net9.0\FootballStats.Domain.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\obj\Debug\net9.0\refint\FootballStats.Domain.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\obj\Debug\net9.0\FootballStats.Domain.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Domain\obj\Debug\net9.0\ref\FootballStats.Domain.dll

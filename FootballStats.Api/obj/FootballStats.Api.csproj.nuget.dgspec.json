@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Api\\FootballStats.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Api\\FootballStats.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Api\\FootballStats.Api.csproj",
+        "projectName": "FootballStats.Api",
+        "projectPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Api\\FootballStats.Api.csproj",
+        "packagesPath": "C:\\Users\\DanielAlejandroOtero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DanielAlejandroOtero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Application\\FootballStats.Application.csproj": {
+                "projectPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Application\\FootballStats.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Application\\FootballStats.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Application\\FootballStats.Application.csproj",
+        "projectName": "FootballStats.Application",
+        "projectPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Application\\FootballStats.Application.csproj",
+        "packagesPath": "C:\\Users\\DanielAlejandroOtero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DanielAlejandroOtero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Domain\\FootballStats.Domain.csproj": {
+                "projectPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Domain\\FootballStats.Domain.csproj"
+              },
+              "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Infrastructure\\FootballStats.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Infrastructure\\FootballStats.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Domain\\FootballStats.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Domain\\FootballStats.Domain.csproj",
+        "projectName": "FootballStats.Domain",
+        "projectPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Domain\\FootballStats.Domain.csproj",
+        "packagesPath": "C:\\Users\\DanielAlejandroOtero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DanielAlejandroOtero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Infrastructure\\FootballStats.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Infrastructure\\FootballStats.Infrastructure.csproj",
+        "projectName": "FootballStats.Infrastructure",
+        "projectPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Infrastructure\\FootballStats.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DanielAlejandroOtero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DanielAlejandroOtero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Domain\\FootballStats.Domain.csproj": {
+                "projectPath": "C:\\Users\\DanielAlejandroOtero\\Downloads\\.net\\SoccerDashboard\\FootballStats.Domain\\FootballStats.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\bin\Debug\net9.0\FootballStats.Infrastructure.deps.json
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\bin\Debug\net9.0\FootballStats.Infrastructure.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\bin\Debug\net9.0\FootballStats.Infrastructure.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\bin\Debug\net9.0\FootballStats.Domain.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\bin\Debug\net9.0\FootballStats.Domain.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\FootballStats.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\FootballStats.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\FootballStats.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\FootballStats.Infrastructure.AssemblyInfo.cs
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\FootballStats.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\Football.B4FB316F.Up2Date
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\FootballStats.Infrastructure.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\refint\FootballStats.Infrastructure.dll
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\FootballStats.Infrastructure.pdb
+C:\Users\DanielAlejandroOtero\Downloads\.net\SoccerDashboard\FootballStats.Infrastructure\obj\Debug\net9.0\ref\FootballStats.Infrastructure.dll
