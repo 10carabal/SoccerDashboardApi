@@ -1,78 +1,72 @@
-# FootballStats Solution
+# Football Stats Management System
 
-Solución para la gestión y visualización de estadísticas de fútbol profesional. Incluye una API desarrollada en .NET y un dashboard web moderno en Angular.
+**Solution for managing and visualizing professional football statistics.**
+This project is composed of two parts:
+- **Backend API** built with ASP.NET Core (.NET)
+- **Frontend Dashboard** built with Angular (included as a submodule)
 
-## Estructura de la solución
+---
 
-- [`FootballStats.Api`](FootballStats.Api)
-  API RESTful en ASP.NET Core para exponer datos de fútbol y estadísticas.
-- [`FootballStats.Application`](FootballStats.Application)
-  Lógica de negocio y casos de uso.
-- [`FootballStats.Domain`](FootballStats.Domain)
-  Entidades y contratos del dominio.
-- [`FootballStats.Infrastructure`](FootballStats.Infrastructure)
-  Integraciones externas y servicios de infraestructura.
-- [`SoccerDashboardApp`](SoccerDashboardApp)
-  Aplicación web Angular para visualización y consulta de datos.
+## 🚀 Overview
+This repository serves as the main project, providing a professional practice environment to strengthen full-stack development skills.
 
-## Características principales
+- The **.NET API** delivers endpoints for managing football data, ensuring performance and scalability.
+- The **Angular Dashboard** (still under development) provides a modern, responsive web interface for visualization.
 
-- Consulta de goleadores, equipos y jugadores por temporada y liga.
-- Integración con API externa de fútbol ([`FootballApiService`](FootballStats.Infrastructure/Services/FootballApiService.cs)).
-- Arquitectura limpia: separación de dominio, aplicación, infraestructura y presentación.
-- Dashboard interactivo con Angular y PrimeNG.
+---
 
-## Requisitos
+## 🛠 Tech Stack
+- **Backend**: ASP.NET Core (.NET 7/8)
+- **Frontend**: Angular (submodule: [`SoccerDashboardApp`](./SoccerDashboardApp))
+- **Database**: (to be defined / can be SQL Server, PostgreSQL, etc.)
 
-- .NET 9.0 SDK
-- Node.js 18+
-- Angular CLI 19+
+---
 
-## Instalación y ejecución
+## 📦 Project Structure
+```
+FootballStats-API/         → Main repository (API in .NET)
+│
+├── Controllers/           → API endpoints
+├── Models/                → Domain models
+├── ...
+└── SoccerDashboardApp/    → Angular dashboard (submodule)
+```
 
-### Backend (.NET API)
+---
 
-```sh
-cd FootballStats.Api
+## ⚡️ Getting Started
+
+### 1. Clone with submodules
+```bash
+git clone --recurse-submodules https://github.com/YOUR-USER/FootballStats-API.git
+cd FootballStats-API
+```
+
+### 2. Run the API
+```bash
 dotnet restore
+dotnet build
 dotnet run
 ```
 
-La API estará disponible en [http://localhost:5200](http://localhost:5200) (configurable en [`launchSettings.json`](FootballStats.Api/Properties/launchSettings.json)).
-
-### Frontend (Angular)
-
-```sh
+### 3. Run the Angular Dashboard
+```bash
 cd SoccerDashboardApp
 npm install
-ng serve
+ng serve -o
 ```
 
-Accede a [http://localhost:4200](http://localhost:4200) para ver el dashboard.
+---
 
-## Configuración
+## 📌 Status
+- **API**: Functional, serving football stats data.
+- **Dashboard**: Work in progress (UI and features under development).
 
-Edita [`appsettings.json`](FootballStats.Api/appsettings.json) para configurar claves y host de la API externa:
+---
 
-```json
-"ApiFootball": {
-  "Key": "TU_API_KEY",
-  "Host": "v3.football.api-sports.io"
-}
-```
-
-## Pruebas
-
-- **Backend:**
-  Ejecuta pruebas unitarias con:
-  ```sh
-  dotnet test
-  ```
-- **Frontend:**
-  Ejecuta pruebas con:
-  ```sh
-  ng test
-  ```
+## 🎯 Purpose
+This project was created as a **professional practice exercise** to demonstrate skills in full-stack web development, combining .NET for backend services and Angular for frontend applications.
+It is also intended as part of a **portfolio for future job opportunities**.
 
 ## Licencia
 
