@@ -1,0 +1,3 @@
+[submodule "SoccerDashboardApp"]
+	path = SoccerDashboardApp
+	url = git@github.com:10carabal/SoccerDashboardApi.git
